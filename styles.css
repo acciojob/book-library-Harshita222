@@ -4,6 +4,8 @@ body{
 }
 .book-library{
 	Background color: #ffffff;
+	text-align:center;
+	width:300px
 }
 .book{
 	    text-align: center;
