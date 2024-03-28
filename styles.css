@@ -2,10 +2,12 @@
 body{
 	Background color: #f8f8f8
 }
-.book-library{
+.book-library h1{
 	Background color: #ffffff;
 	text-align:center;
-	width:300px
+	width:300px;
+	/* box-shadow:gray; */
+	
 }
 .book{
 	    text-align: center;
